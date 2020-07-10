@@ -2,7 +2,7 @@ style.css
 
 body {
   font-family: serif;
-  line-height: 1.5;
+  line-height: 5;
 
   background-color: green;
   color: #333333;
@@ -12,7 +12,7 @@ body {
 }
 
 h1 {
-  text-align: center;
+  text-align: right;
   font-size: 36px;
   margin-bottom: 0;
 }
